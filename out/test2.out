@@ -1,0 +1,10 @@
+L1:
+L3:
+L4:
+	v = 4.0
+	goto L1
+L5:
+	v = 4.0
+	goto L1
+L2:
+EOF

@@ -1,0 +1,17 @@
+L1:
+	t1 = 50 / 50
+	t2 = 50 / 50
+	i = t2 - t2
+L3:
+	j = 88 * 88
+L4:
+	k = k / k
+L5:
+	b = true
+L6:
+	iffalse b goto L2
+L7:
+	k = 3 * 3
+	goto L6
+L2:
+EOF

@@ -1,0 +1,71 @@
+0: 
+1: 
+2: ldc 1
+3: ldc 1
+4: iadd
+5: istore 0
+6: pop
+8: 
+9: ldc 8
+10: ldc 8
+11: imul
+12: istore 1
+13: pop
+15: aload 2
+16: aload 3
+17: aaload
+18: istore 4
+19: pop
+22: 
+23: ldc 1
+24: ldc 1
+25: isub
+26: istore 5
+27: pop
+29: 
+30: ldc 8
+31: ldc 8
+32: imul
+33: istore 6
+34: pop
+36: aload 2
+37: aload 7
+38: aaload
+39: istore 8
+40: pop
+43: 
+45: 
+47: 
+48: ldc 8
+49: ldc 8
+50: imul
+51: istore 9
+52: pop
+54: aload 2
+55: aload 10
+56: aaload
+57: istore 11
+58: pop
+60: 
+61: ldc 8
+62: ldc 8
+63: imul
+64: istore 12
+65: pop
+67: ldc 8
+68: ldc 8
+69: imul
+70: istore 13
+71: pop
+73: aload 2
+74: aload 14
+75: aaload
+76: istore 15
+77: pop
+80: 
+81: ldc 8
+82: ldc 8
+83: imul
+84: istore 16
+85: pop
+89: 
