@@ -1,21 +1,5 @@
 package translator;
 
-/**
- * Universidade Federal de Minas Gerais
- *
- * Disciplina: 
- *
- * Compiladores
- *
- * @author Isabel Bicalho Amaro
- * Matrícula: 2013431427
- *
- * <p>
- * Funcionalidade: Seta posição de um array
- * </p>
- *
- * Criado em: 13 de dez de 2015
- */
 public class StoreArray
 {
   /**

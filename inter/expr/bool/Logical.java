@@ -5,23 +5,6 @@ import inter.expr.Temp;
 import lexer.Token;
 import symbols.Type;
 
-/**
- * Universidade Federal de Minas Gerais
- *
- * Disciplina: 
- *
- * Compiladores I
- *
- * @author Isabel Bicalho Amaro
- * Matrícula: 2013431427
- *
- * <p>
- * Funcionalidade: Oferece funcionalidade comum para as classes 
- * Or, And e Not.
- * </p>
- *
- * Criado em: 29 de nov de 2015
- */
 public class Logical extends Expr
 {
   /**

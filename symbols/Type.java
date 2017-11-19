@@ -3,22 +3,6 @@ package symbols;
 import lexer.Tag;
 import lexer.Word;
 
-/**
- * Universidade Federal de Minas Gerais
- *
- * Disciplina: 
- *
- * Compiladores I
- *
- * @author Isabel Bicalho Amaro
- * Matrícula: 2013431427
- *
- * <p>
- * Funcionalidade: Define tipos básicos como palavras reservadas.
- * </p>
- *
- * Criado em: 13 de out de 2015
- */
 public class Type extends Word
 {
   public static final Type Int = new Type("int", Tag.BASIC , 4);

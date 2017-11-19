@@ -3,22 +3,6 @@ package inter.expr;
 import lexer.Token;
 import symbols.Type;
 
-/**
- * Universidade Federal de Minas Gerais
- *
- * Disciplina: 
- *
- * Compiladores I
- *
- * @author Isabel Bicalho Amaro
- * Matrícula: 2013431427
- *
- * <p>
- * Funcionalidade: Corresponde a um operando da classe Arith.
- * </p>
- *
- * Criado em: 29 de nov de 2015
- */
 public class Unary extends Op
 {
   /**

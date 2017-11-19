@@ -4,23 +4,6 @@ import inter.expr.Expr;
 import inter.expr.Id;
 import symbols.Type;
 
-/**
- * Universidade Federal de Minas Gerais
- *
- * Disciplina: 
- *
- * Compiladores I
- *
- * @author Isabel Bicalho Amaro
- * Matrícula: 2013431427
- *
- * <p>
- * Funcionalidade: Implementa atribuições com um identificador 
- * no lado esquerdo e uma expressão à direita.
- * </p>
- *
- * Criado em: 29 de nov de 2015
- */
 public class Set extends Stmt
 {
   public Id id;

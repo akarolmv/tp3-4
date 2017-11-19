@@ -6,22 +6,6 @@ import inter.expr.bool.Access;
 import symbols.Array;
 import symbols.Type;
 
-/**
- * Universidade Federal de Minas Gerais
- *
- * Disciplina: 
- *
- * Compiladores I
- *
- * @author Isabel Bicalho Amaro
- * Matrícula: 2013431427
- *
- * <p>
- * Funcionalidade: Implementa atribuições a um elemento do arranjo.
- * </p>
- *
- * Criado em: 29 de nov de 2015
- */
 public class SetElem extends Stmt
 {
   public Id array;

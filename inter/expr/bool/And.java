@@ -3,22 +3,6 @@ package inter.expr.bool;
 import inter.expr.Expr;
 import lexer.Token;
 
-/**
- * Universidade Federal de Minas Gerais
- *
- * Disciplina: 
- *
- * Compiladores I
- *
- * @author Isabel Bicalho Amaro
- * Matrícula: 2013431427
- *
- * <p>
- * Funcionalidade: Implementa o funcionamento do And lógico.
- * </p>
- *
- * Criado em: 29 de nov de 2015
- */
 public class And extends Logical
 {
   /**

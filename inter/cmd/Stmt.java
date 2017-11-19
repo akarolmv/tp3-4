@@ -2,23 +2,6 @@ package inter.cmd;
 
 import inter.expr.Node;
 
-/**
- * Universidade Federal de Minas Gerais
- *
- * Disciplina: 
- *
- * Compiladores
- *
- * @author Isabel Bicalho Amaro
- * Matrícula: 2013431427
- *
- * <p>
- * Funcionalidade: Representa o estado na construção da 
- * árvore de sintaxe.
- * </p>
- *
- * Criado em: 29 de nov de 2015
- */
 public class Stmt extends Node
 {
   /**

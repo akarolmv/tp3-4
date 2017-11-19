@@ -1,21 +1,5 @@
 package lexer;
 
-/**
- * Universidade Federal de Minas Gerais
- *
- * Disciplina: 
- *
- * Compiladores I
- *
- * @author Isabel Bicalho Amaro
- * Matrícula: 2013431427
- *
- * <p>
- * Funcionalidade: Define constantes para tokens.
- * </p>
- *
- * Criado em: 13 de out de 2015
- */
 public class Tag
 {
   public static final int AND = 256;

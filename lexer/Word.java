@@ -1,23 +1,5 @@
 package lexer;
 
-/**
- * Universidade Federal de Minas Gerais
- *
- * Disciplina: 
- *
- * Compiladores I
- *
- * @author Isabel Bicalho Amaro
- * Matrícula: 2013431427
- *
- * <p>
- * Funcionalidade: Gerencia lexemas para palavras reservadas, identificadores
- * e tokens compostos como &&. Ela também é útil para gerenciar a forma
- * escrita dos operadores no código intermediáro, como o menos unário.
- * </p>
- *
- * Criado em: 13 de out de 2015
- */
 public class Word extends Token
 {
   public static final Word and = new Word ("&&",Tag.AND);

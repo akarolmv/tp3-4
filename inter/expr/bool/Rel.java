@@ -5,23 +5,6 @@ import lexer.Token;
 import symbols.Array;
 import symbols.Type;
 
-/**
- * Universidade Federal de Minas Gerais
- *
- * Disciplina: 
- *
- * Compiladores I
- *
- * @author Isabel Bicalho Amaro
- * Matrícula: 2013431427
- *
- * <p>
- * Funcionalidade: Implementa os operadores de relação.
- * Para simplificar, as coerções não são permitidas.
- * </p>
- *
- * Criado em: 29 de nov de 2015
- */
 public class Rel extends Logical
 {
   /**

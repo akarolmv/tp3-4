@@ -1,21 +1,5 @@
 package inter.cmd;
 
-/**
- * Universidade Federal de Minas Gerais
- *
- * Disciplina: 
- *
- * Compiladores I
- *
- * @author Isabel Bicalho Amaro
- * Matrícula: 2013431427
- *
- * <p>
- * Funcionalidade: Implementa uma sequência de comandos.
- * </p>
- *
- * Criado em: 29 de nov de 2015
- */
 public class Seq extends Stmt
 {
   public Stmt stmt1;

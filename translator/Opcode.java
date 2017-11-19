@@ -1,21 +1,5 @@
 package translator;
 
-/**
- * Universidade Federal de Minas Gerais
- *
- * Disciplina: 
- *
- * Compiladores I
- *
- * @author Isabel Bicalho Amaro
- * MatrÃ­cula: 2013431427
- *
- * <p>
- * Funcionalidade: Opcodes para o tradutor.
- * </p>
- *
- * Criado em: 6 de dez de 2015
- */
 public class Opcode
 {
   /**

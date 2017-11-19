@@ -1,21 +1,5 @@
 package translator;
 
-/**
- * Universidade Federal de Minas Gerais
- *
- * Disciplina: 
- *
- * Compiladores I
- *
- * @author Isabel Bicalho Amaro
- * Matrícula: 2013431427
- *
- * <p>
- * Funcionalidade: Gera Bytecode de add.
- * </p>
- *
- * Criado em: 12 de dez de 2015
- */
 public class Add
 {
   /**

@@ -5,22 +5,6 @@ import java.util.Hashtable;
 
 import symbols.Type;
 
-/**
- * Universidade Federal de Minas Gerais
- *
- * Disciplina: 
- *
- * Compiladores I
- *
- * @author Isabel Bicalho Amaro
- * Matrícula: 2013431427
- *
- * <p>
- * Funcionalidade: Simula o comportamento de um analisador léxico.
- * </p>
- *
- * Criado em: 13 de out de 2015
- */
 public class Lexer
 {
   public static int line = 1;

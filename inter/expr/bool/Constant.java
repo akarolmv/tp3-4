@@ -6,22 +6,6 @@ import lexer.Token;
 import lexer.Word;
 import symbols.Type;
 
-/**
- * Universidade Federal de Minas Gerais
- *
- * Disciplina: 
- *
- * Compiladores I
- *
- * @author Isabel Bicalho Amaro
- * Matrícula: 2013431427
- *
- * <p>
- * Funcionalidade: Cria um objeto constante.
- * </p>
- *
- * Criado em: 29 de nov de 2015
- */
 public class Constant extends Expr
 {
   public static final Constant True = new Constant(Word.True, Type.Bool);
