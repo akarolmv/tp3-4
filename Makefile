@@ -26,6 +26,7 @@ clean:
 	(cd symbols; rm *.class)
 	(cd inter/cmd; rm *.class)
 	(cd inter/expr; rm *.class)
+	(cd inter/expr/bool; rm *.class)	
 	(cd parser; rm *.class)
 	(cd main; rm *.class)
 	(cd translator; rm *.class)
