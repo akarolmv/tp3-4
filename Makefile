@@ -29,3 +29,4 @@ clean:
 	(cd parser; rm *.class)
 	(cd main; rm *.class)
 	(cd translator; rm *.class)
+	(cd out; rm *.out *.bit)
